@@ -1,4 +1,4 @@
-# datting_social
+# datting_social_flutter
 
 Social networking apps. FrontEnd written in Flutter. BackEnd written in golang.(Is in the process of finishing)
 
