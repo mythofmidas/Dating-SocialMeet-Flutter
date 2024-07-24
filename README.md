@@ -1,4 +1,4 @@
-# datting_social_flutter
+# DatingApp for Android and iOS using Hybrid - Flutter
 
 Social networking apps. FrontEnd written in Flutter. BackEnd written in golang.(Is in the process of finishing)
 
