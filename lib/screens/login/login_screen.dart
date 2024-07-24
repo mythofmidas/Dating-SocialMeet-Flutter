@@ -38,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text("WELCOME", style: Mytheme.textLogin),
-              Text("Please login to continuesly", style: Mytheme.textLoginSmall),
+              Text("Please login to continue", style: Mytheme.textLoginSmall),
               Padding(
                 padding: const EdgeInsets.only(top: 50),
                 child: Column(
@@ -84,7 +84,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        const Text('Do not have an account yet?'),
+                        const Text('Do not have an account?'),
                         TextButton(
                             onPressed: () {
                               Get.toNamed('/register');
